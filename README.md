@@ -23,8 +23,8 @@ I’m currently working on various projects involving AI and machine learning mo
 Feel free to explore my repositories and connect with me on GitHub!
 
 ## 📫 Get in Touch
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **Email:** [Your Email](#)
+- **LinkedIn:** [Your LinkedIn Profile](#www.linkedin.com/in/milisav-jovanovic-059969336)
+- **Email:** [Your Email](#milisav.jovanovic415@gmail.com)
 
 Looking forward to collaborating and learning together!
 
