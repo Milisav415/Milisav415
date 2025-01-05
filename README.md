@@ -1,7 +1,5 @@
 # Welcome to My GitHub Profile!
 
-Also, ja, hier lege ich meine Projekte ab, problem ?
-
 I'm a software developer and technology enthusiast with a strong foundation in C++, Python, and Java. I have a Bachelor's degree in Electrical Engineering and Computer Science from the University of Belgrade.
 
 ##  Interests
@@ -30,3 +28,4 @@ Feel free to explore my repositories and connect with me on GitHub!
 
 Looking forward to collaborating and learning together!
 
+Eine Gestalt, die versucht, in dieser selbst geschaffenen Hölle zu überleben.
