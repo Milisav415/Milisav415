@@ -1,11 +1,12 @@
 # Welcome to My GitHub Profile!
 
-I'm a software developer and technology enthusiast with a strong foundation in C++, Python, and Java. I have a Bachelor's degree in Electrical Engineering and Computer Science from the University of Belgrade.
+I'm a software developer and technology enthusiast who likes to do what he feals like is cool. 
+I have a Bachelor's degree in Electrical Engineering and Computer Science from the University of Belgrade it only took 5 years pain.
 
 ##  Interests
-I am passionate about:
 - **Artificial Intelligence (AI)** 
-- **Machine Learning** 
+- **Machine Learning**
+- **LLMs**
 - **Software Development**
 - **System Design**
 - **System Software**
@@ -17,8 +18,8 @@ I am passionate about:
 
 ##  Skills
 - **Programming Languages:** C++, Python, Java, Embeded C, MatLab(lol who cares)
-- **Technologies i use and like:** CMake, Embedded C(for MSP), PyTorch, TensorFlow, NumPy, Pandas, GXBoost, Transformers and a bunch of web dev stuff that I am woking on -_- 
-- **Software Engineering:** Full-stack development, system design, algorithm optimization
+- **Technologies i use and like:** CMake, Embedded C(for MSP), PyTorch, TensorFlow, NumPy, Pandas, GXBoost, Transformers, HuggingFace, openai playground and a bunch of web dev stuff that I am woking on as in I am still learning them -_- (React, TypeScript, MongoBD, FastAPI, AWS, Flask, Django) 
+- **Software Engineering:** Full-stack development, system design, algorithm optimization, LLMs
 
 ##  Education
 - **Bachelor's Degree** in Electrical Engineering and Computer Science from the **University of Belgrade**
